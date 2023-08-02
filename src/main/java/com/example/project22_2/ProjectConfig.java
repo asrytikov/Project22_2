@@ -1,4 +1,4 @@
-package com.example.project22_2.config;
+package com.example.project22_2;
 
 import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.context.annotation.Configuration;

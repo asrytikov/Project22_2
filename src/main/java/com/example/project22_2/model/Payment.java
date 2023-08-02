@@ -1,4 +1,4 @@
-package com.example.project22_1.model;
+package com.example.project22_2.model;
 
 public class Payment {
 
